@@ -19,6 +19,7 @@
 
 <br />
 <br />
+  
+![cr7 stats](https://github-readme-stats.vercel.app/api?username=cr7&show_icons=true&theme=radical&count_private=true)
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/saigonapps/competition/light)
 
