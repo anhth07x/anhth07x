@@ -22,4 +22,4 @@
   
 ![anhth07x stats](https://github-readme-stats.vercel.app/api?username=anhth07x&show_icons=true&theme=radical&count_private=true)
 
-
+![anhth07x stats](https://github-readme-stats.vercel.app/api?username=anhth07x&show_icons=true&hide_border=true)
