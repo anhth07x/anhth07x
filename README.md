@@ -9,7 +9,7 @@
 <table>
 <tr>
   <td width="48%">
-
+        fix.....
   </td>
   <td width="52%"><img alt="gif" align="right" src="https://media3.giphy.com/media/3wqWPVpbGjSApVUPKr/giphy.gif"/></td>
 </tr>
