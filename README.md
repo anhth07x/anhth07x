@@ -20,5 +20,5 @@
 <br />
 <br />
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=kkorr&label=Profile%20views&color=blue&style=flat" alt="kkorr"/></p>
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/saigonapps/competition/light)
 
