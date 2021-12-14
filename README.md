@@ -20,6 +20,6 @@
 <br />
 <br />
   
-![cr7 stats](https://github-readme-stats.vercel.app/api?username=cr7&show_icons=true&theme=radical&count_private=true)
+![anhth07x stats](https://github-readme-stats.vercel.app/api?username=anhth07x&show_icons=true&theme=radical&count_private=true)
 
 
